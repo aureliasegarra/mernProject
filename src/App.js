@@ -1,12 +1,10 @@
-import './CelsiusToFahrenheitForm';
-import CelsiusToFahrenheitForm from './CelsiusToFahrenheitForm';
+import CelsiusToFahrenheitForm from './CelsiusToFarhenheitForm';
 
 function App() {
     return (
-        <div className="App">
-
-            <header>
-                <p className="text-5xl">Hello Converter form</p>
+        <div className="h-screen bg-slate-300">
+            <header className="">
+                <p className="font-mono text-5xl text-center mb-20 pt-20">Celsius to Fahrenheit 🌡</p>
                 <CelsiusToFahrenheitForm />
             </header>
 
