@@ -1,9 +1,17 @@
+import './CelsiusToFahrenheitForm';
+import CelsiusToFahrenheitForm from './CelsiusToFahrenheitForm';
+
 function App() {
-  return (
-    <div className="min-h-screen bg-black p-4">
-      <h1 className="text-4xl text-slate-50">Celsius converter project</h1>
-    </div>
-  );
+    return (
+        <div className="App">
+
+            <header>
+                <p className="text-5xl">Hello Converter form</p>
+                <CelsiusToFahrenheitForm />
+            </header>
+
+        </div>
+    );
 }
 
 export default App;
