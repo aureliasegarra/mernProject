@@ -1,13 +1,11 @@
-Readme élaboré
-
 [![Front](https://img.shields.io/badge/Stack-MERN-red?style=flat)](https://)
 [![Front](https://img.shields.io/badge/API-REST-yellow?style=flat)](https://)
 
 
-
+<br/>
 <br/>
 <div align="center">
-    <img src="cypress-logo.png" alt="Logo" width="60%">
+    <img src="logo_weather.jpg" alt="Logo" width="30%">
     <br/>
     <br/>
     <h1 align="center">MERN Project</h1>
